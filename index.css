@@ -1,9 +1,10 @@
 h1{
     color: blue;
-    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;
+    text-align: center;
 }
 
-h2{
-    color: yellow;
-    font-family: 'Courier New', Courier, monospace;
+span{
+    color: rgb(62, 13, 98);
+    font-size: 25px;
 }
